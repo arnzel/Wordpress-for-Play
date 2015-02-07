@@ -1,8 +1,6 @@
 package models;
 // Generated on the Jul 31, 2013 1:54:11 PM by Play!
 
-import play.db.jpa.JPASupport;
-
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
 

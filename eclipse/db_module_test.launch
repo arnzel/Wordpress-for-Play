@@ -15,6 +15,6 @@
     <booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="play.server.Server"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="db_module_test"/>
-    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=" -Xdebug -Xrunjdwp:transport=dt_socket,address=8000,server=y,suspend=n -Dplay.debug=yes -Dplay.id= -Dapplication.path=&quot;${project_loc:db_module_test}&quot; -Djava.endorsed.dirs=&quot;/home/arnzel/play-1.2.5/framework/endorsed&quot; -javaagent:&quot;/home/arnzel/play-1.2.5/framework/play-1.2.5.jar&quot;"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=" -Xdebug -Xrunjdwp:transport=dt_socket,address=8000,server=y,suspend=n -Dplay.debug=yes -Dplay.id= -Dapplication.path=&quot;${project_loc:db_module_test}&quot; -Djava.endorsed.dirs=&quot;C:\D\Java\Play_1_2_5\play-1.2.5/framework/endorsed&quot; -javaagent:&quot;C:\D\Java\Play_1_2_5\play-1.2.5/framework/play-1.2.5.jar&quot;"/>
 </launchConfiguration>
 
